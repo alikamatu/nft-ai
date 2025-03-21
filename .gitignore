@@ -12,6 +12,8 @@ VENV/
 *.egg-info/
 *.egg
 *.whl
+*.tar.gz
+*.zip
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
